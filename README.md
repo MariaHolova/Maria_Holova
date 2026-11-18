@@ -1,39 +1,39 @@
 # My First Repository
 
-![NTU KhPI Student](https://img.shields.io/badge/NTU%20%22KhPI%22-CS--126-4A5568?style=flat&labelColor=8B0000)
+![NTU KhPI](https://img.shields.io/badge/NTU%20%22KhPI%22-CS--126-1e3a8a?style=flat&labelColor=8B0000)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&labelColor=24292E)
-![C++](https://img.shields.io/badge/-C++-3776AB?style=flat&logo=c++&logoColor=white&labelColor=1F2937)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=24292E)
 
 ## Quick references
 
-[Author](#author) | [Description](#description) | [My favorite university subjects](#my-favorite-university-subjects) | [Online VS Offline studying](#online-vs-offline-studying) | [My favorite math formulas](#my-favorite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like)
+[Author](#author) | [Description](#description) | [📜My favorite university subjects](#📜my-favorite-university-subjects) | [🎓Online VS Offline studying](#🎓online-vs-offline-studying) | [My favorite math formulas](#my-favorite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like)
 
-## Author
+## 👩‍🎓 Author
 
 * **Name**: *Maria Holova*
 * **Group**: *CS-126*
 * **Date**: *18.11.2026*
 
-## Description
+## 📘 Description
 
 Hi! My name is Maria, and this is my first GitHub repository. Here I practice formatting technical documentation with Markdown, typesetting LaTeX mathematical formulas, embedding executable C++ snippets, and working with GitHub web tools.
 
-## My favorite university subjects
+## 📜 My favorite university subjects
 
 Currently my favorite subjects are:
 
 1. Mathematical analysis
 2. Algorithmization and programming
 3. Mathematical logic
-## Online VS Offline studying
+## 🎓 Online VS Offline studying
 
 Here is what I think about each of the studying options:
 
 | Online | Offline |
-| :---   | :--- |
+| :---:   | :---: |
 | You don’t spend time commuting to the university. | You can interact live with your professors and groupmates.  |
 
-## My favorite math formulas
+## ➕ My favorite math formulas
 
 Here are some of my favorite math formulas:
 
@@ -88,7 +88,7 @@ $$
 
 This is the identity matrix $I_{N}$ of size $N \times N$, where all main diagonal entries equal $1$ and all off-diagonal entries equal $0$.
 
-## My coding skills
+## 💻 My coding skills
 
 I am skilled enough to write basic C++ programs — here is one of the examples:
 
@@ -107,8 +107,8 @@ int main()
 
 Use [this web-compiler](https://cpp.sh/?source=%23include+%3Ciostream%3E%0D%0A%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main()%0D%0A%7B%0D%0A++++cout+%3C%3C+%22Hello%2C+GitHub!%22%3B%0D%0A%0D%0A++++return+0%3B%0D%0A%7D) to check the code out. The "main()" function is the starting point of the program. It prints the message "Hello, GitHub!" on the screen and returns 0 when the program finishes successfully.
 
-## The image I like
+## 🪐 The image I like
 
-Here is an image I personally like: it captures a memorable place and inspires me to stay focused on my studies.
+Here is an image I personally like: it captures the view of the Pillars of Creation, which are about 5 light-years tall. This photo, which combines images from several Hubble Space Telescopes, inspires me with the beauty of the universe.
 
-![Favorite image](images/universeimage.webp)
+![Favorite image](images/universe.webp)
