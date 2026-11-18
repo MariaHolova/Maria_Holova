@@ -6,7 +6,7 @@
 
 ## Quick references
 
-[Author](#-author) | [Description](#-description) | [📜My favorite university subjects](#-my-favorite-university-subjects) | [🎓Online VS Offline studying](#-online-vs-offline-studying) | [My favorite math formulas](#-my-favorite-math-formulas) | [My coding skills](#-my-coding-skills) | [The image I like](#-the-image-i-like)
+[Author](#-author) | [Description](#-description) | [📜My favourite university subjects](#-my-favourite-university-subjects) | [🎓Online VS Offline studying](#-online-vs-offline-studying) | [My favourite math formulas](#-my-favorite-math-formulas) | [My coding skills](#-my-coding-skills) | [The image I like](#-the-image-i-like)
 
 ## 👩‍🎓 Author
 
@@ -18,7 +18,7 @@
 
 Hi! My name is Maria, and this is my first GitHub repository. Here I practice formatting technical documentation with Markdown, typesetting LaTeX mathematical formulas, embedding executable C++ snippets, and working with GitHub web tools.
 
-## 📜 My favorite university subjects
+## 📜 My favourite university subjects
 
 Currently my favorite subjects are:
 
@@ -33,9 +33,9 @@ Here is what I think about each of the studying options:
 | :---:   | :---: |
 | You don’t spend time commuting to the university. | You can interact live with your professors and groupmates.  |
 
-## ➕ My favorite math formulas
+## ➕ My favourite math formulas
 
-Here are some of my favorite math formulas:
+Here are some of my favourite math formulas:
 
 $$
 y = \alpha x^{2} + \beta x + \gamma
