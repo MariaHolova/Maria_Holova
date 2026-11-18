@@ -8,7 +8,7 @@
 
 [Author](#-author) | [Description](#-description) | [📜My favourite university subjects](#-my-favourite-university-subjects) | [🎓Online VS Offline studying](#-online-vs-offline-studying) | [My favourite math formulas](#-my-favourite-math-formulas) | [My coding skills](#-my-coding-skills) | [The image I like](#-the-image-i-like)
 
-## 👩‍🎓 Author
+## 👩‍💻 Author
 
 * **Name**: *Maria Holova*
 * **Group**: *CS-126*
